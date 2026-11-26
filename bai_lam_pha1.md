@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:NGUYỄN ĐỨC GIA HUY 
 - **Lớp:** CNTT2 
-- **Link repository Pha1:**
+- **Link repository Pha1:**https://github.com/huyndgfpt30051-glitch/HN-KS26-CNTT2_PROMPTAI_H02_PHA1_PHA2/tree/main
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
